@@ -1,4 +1,4 @@
-//Get a four-digit number from the user and print the reverse of the number.
+//Get a four-digit number from user and only reverse the first two digits of the number, then print the number.
 
 #include<stdio.h>
 
