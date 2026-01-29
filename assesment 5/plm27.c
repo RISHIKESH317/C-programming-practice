@@ -15,8 +15,9 @@ int main() {
        if(sum==14){
            c++;
        }
-       printf("The result is %d", c);
+       
    }
+    printf("The result is %d", c);
 
     
     return 0;
