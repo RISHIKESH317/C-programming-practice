@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void disp_2digit_ones5(){
+void disp_2digit_odd_sum_tens7(){
     int sum=0;
     for(int i=11; i<=99; i++){
         if((i/10==7)&&(i%2!=0)){
@@ -13,5 +13,5 @@ void disp_2digit_ones5(){
 }
 
 int main (){
-    disp_2digit_ones5();
+disp_2digit_odd_sum_tens7();
 }
